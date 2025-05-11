@@ -75,7 +75,7 @@ This project aims to perform **sentiment analysis** on reviews related to the Pa
 ## ✅ Model Performance
 
 * Best performing model: **Support Vector Machine (SVM)**
-* Accuracy achieved: **82.5%**
+* Accuracy achieved: **82%**
 
 ## 📌 Use Cases
 
